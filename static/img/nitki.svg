@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#1a0d2d"/>
+  <!-- Катушка -->
+  <ellipse cx="100" cy="75" rx="45" ry="14" fill="#8B2252"/>
+  <rect x="55" y="75" width="90" height="45" fill="#a02860"/>
+  <ellipse cx="100" cy="120" rx="45" ry="14" fill="#8B2252"/>
+  <!-- Навитые нитки -->
+  <ellipse cx="100" cy="98" rx="38" ry="20" fill="none" stroke="#ff69a0" stroke-width="2.5"/>
+  <ellipse cx="100" cy="98" rx="38" ry="20" fill="none" stroke="#ff90b8" stroke-width="2" transform="rotate(30 100 98)"/>
+  <ellipse cx="100" cy="98" rx="38" ry="20" fill="none" stroke="#ff69a0" stroke-width="2" transform="rotate(60 100 98)"/>
+  <!-- Отверстие -->
+  <ellipse cx="100" cy="97" rx="12" ry="12" fill="#1a0d2d"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial" font-size="13" fill="#ff90b8">Нитки</text>
+</svg>

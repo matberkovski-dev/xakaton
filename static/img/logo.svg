@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80">
+  <rect width="320" height="80" rx="12" fill="#0b1929"/>
+  <!-- Мост схематично -->
+  <line x1="20" y1="55" x2="80" y2="55" stroke="#00c8f0" stroke-width="3"/>
+  <line x1="80" y1="55" x2="80" y2="25" stroke="#00c8f0" stroke-width="2"/>
+  <line x1="20" y1="55" x2="50" y2="25" stroke="#00c8f0" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="80" y1="55" x2="50" y2="25" stroke="#00c8f0" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="20" y1="55" x2="20" y2="25" stroke="#00c8f0" stroke-width="2"/>
+  <line x1="20" y1="25" x2="80" y2="25" stroke="#00c8f0" stroke-width="1"/>
+  <!-- Опоры -->
+  <rect x="17" y="55" width="6" height="18" rx="1" fill="#00a0c0"/>
+  <rect x="77" y="55" width="6" height="18" rx="1" fill="#00a0c0"/>
+  <!-- Текст -->
+  <text x="100" y="35" font-family="Arial Black, Arial" font-size="18" font-weight="900" fill="#00c8f0">ИНЖЕНЕРНЫЙ</text>
+  <text x="100" y="58" font-family="Arial Black, Arial" font-size="18" font-weight="900" fill="#00e676">ХАКАТОН</text>
+  <text x="100" y="72" font-family="Arial" font-size="10" fill="#527090">Система управления квестом</text>
+</svg>

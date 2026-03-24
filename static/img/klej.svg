@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#0d1f2d"/>
+  <rect x="75" y="50" width="50" height="100" rx="8" fill="#e8e8e8"/>
+  <rect x="80" y="45" width="40" height="15" rx="4" fill="#cccccc"/>
+  <rect x="88" y="30" width="24" height="20" rx="3" fill="#aaaaaa"/>
+  <rect x="78" y="70" width="44" height="50" rx="0" fill="#fff"/>
+  <text x="100" y="102" text-anchor="middle" font-family="Arial" font-size="11" font-weight="bold" fill="#1565C0">ПВА</text>
+  <text x="100" y="116" text-anchor="middle" font-family="Arial" font-size="8" fill="#555">КЛЕЙ</text>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial" font-size="13" fill="#6ab4dd">Клей ПВА</text>
+</svg>

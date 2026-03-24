@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: engineering-hakaton
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: SECRET_KEY
+        generateValue: true
+      - key: RENDER
+        value: "true"
+      - key: PYTHON_VERSION
+        value: 3.11.0

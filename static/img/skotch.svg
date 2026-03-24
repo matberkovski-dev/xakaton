@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#0d1a2d"/>
+  <!-- Рулон скотча (вид сбоку) -->
+  <circle cx="100" cy="95" r="55" fill="#b8cce0"/>
+  <circle cx="100" cy="95" r="42" fill="#8aadcc"/>
+  <circle cx="100" cy="95" r="28" fill="#0d1a2d"/>
+  <!-- Блик -->
+  <ellipse cx="82" cy="72" rx="14" ry="8" fill="white" opacity="0.25" transform="rotate(-30 82 72)"/>
+  <!-- Отрезанный край -->
+  <path d="M 148 80 Q 155 95 148 110" stroke="#d0e8f8" stroke-width="3" fill="none"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial" font-size="13" fill="#8aadcc">Скотч</text>
+</svg>

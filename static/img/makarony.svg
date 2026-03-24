@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#2d1f0d"/>
+  <ellipse cx="100" cy="95" rx="55" ry="18" fill="#c8a850"/>
+  <rect x="45" y="77" width="110" height="36" fill="#c8a850"/>
+  <ellipse cx="100" cy="113" rx="55" ry="18" fill="#b8983a"/>
+  <ellipse cx="100" cy="95" rx="55" ry="18" fill="#e0be68"/>
+  <!-- трубочки -->
+  <ellipse cx="70" cy="95" rx="8" ry="18" fill="#b8983a"/>
+  <ellipse cx="70" cy="95" rx="5" ry="15" fill="#2d1f0d" opacity="0.4"/>
+  <ellipse cx="100" cy="95" rx="8" ry="18" fill="#b8983a"/>
+  <ellipse cx="100" cy="95" rx="5" ry="15" fill="#2d1f0d" opacity="0.4"/>
+  <ellipse cx="130" cy="95" rx="8" ry="18" fill="#b8983a"/>
+  <ellipse cx="130" cy="95" rx="5" ry="15" fill="#2d1f0d" opacity="0.4"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial" font-size="13" fill="#e0be68">Макароны</text>
+</svg>

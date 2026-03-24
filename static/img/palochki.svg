@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#1a2f1a"/>
+  <rect x="20" y="90" width="160" height="12" rx="6" fill="#8B6914" transform="rotate(-15 100 100)"/>
+  <rect x="20" y="90" width="160" height="12" rx="6" fill="#A0791E" transform="rotate(-5 100 100)"/>
+  <rect x="20" y="90" width="160" height="12" rx="6" fill="#8B6914" transform="rotate(5 100 100)"/>
+  <rect x="20" y="90" width="160" height="12" rx="6" fill="#C49A2A" transform="rotate(15 100 100)"/>
+  <rect x="20" y="90" width="160" height="12" rx="6" fill="#8B6914" transform="rotate(25 100 100)"/>
+  <text x="100" y="185" text-anchor="middle" font-family="Arial" font-size="13" fill="#6aaa6a">Деревянные палочки</text>
+</svg>
